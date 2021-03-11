@@ -19,16 +19,15 @@ const Home = () => {
         .then(res=>res.json())
         .then(data=>setTeams(data.teams))
     },[])
-    teams=teams.slice(0,12);
+    // teams=teams.slice(0,12);
 
-    const [spacing, setSpacing] = React.useState(2);
     const classes = useStyles();
 
     console.log(teams);
     return (
-    <Grid container className={classes.root} spacing={spacing}>
+    <Grid container className={classes.root} spacing={2}>
         <Grid item xs={12}>
-            <Grid container justify="center" spacing={spacing}>
+            <Grid container justify="center" spacing={2}>
                 {
                     teams.map(t=><Team key={t.idTeam} team={t}></Team>)
                 }

@@ -1,0 +1,26 @@
+.detailHeadline{
+   height: 300px;
+   background-color: #3A42FF;
+   border-radius:20px;
+   margin:5%;
+}
+.details-description{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 1%;
+}
+.details-footer{
+    text-align: center;
+}
+.details-footer img{
+    width:50px;
+    margin:20px;
+}
+.detail-headline-row{
+    padding: 5%;
+    
+
+}
+.detail-headline-row img{
+    height:200px;
+}
