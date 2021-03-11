@@ -1,6 +1,7 @@
 .app{
   background-color:#0E0A2B;
   color: white;
+  margin: 0;
 }
 .app img{
   width: 100%;
