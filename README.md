@@ -19,6 +19,8 @@ used material ui for responsiveness
 
 In the project , you can findout this feature:
 
+You can go out home page clicking the top banner image from any page
+
 all teams basic info show by a beautiful card
 
 team details show through with react router
