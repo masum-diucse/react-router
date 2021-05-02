@@ -1,32 +1,10 @@
-Team Finder app
+A football club information-based responsive website to update yourself about your queries.
 
-You can find out your desired sports team through this app.
+>Website: https://team-finder-app.netlify.app/
 
-Available link of this app
-
-https://team-finder-app.netlify.app/
-
-Used technology in this project:
-
-build app with react library
-
-used react router dom for routing
-
-used fontawsome icon library for showing icon
-
-used material ui for responsiveness
-
-
-In the project , you can findout this feature:
-
-You can go out home page clicking the top banner image from any page
-
-all teams basic info show by a beautiful card
-
-team details show through with react router
-
-you can see a conditional image on the team details page for discriminating team through gender
-
-you get social link easily from team details page
-
-Thanks programming hero team from Masum for visiting read me file.......
+Features:
+>User can see almost all football club short info from the homepage 
+>
+>User can explore details for a specific club
+>
+>User can see a gender-wise different sports banner on the details page 
